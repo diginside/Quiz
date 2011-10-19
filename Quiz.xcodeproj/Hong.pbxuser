@@ -1,0 +1,179 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* QuizAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 377}}";
+			sepNavSelRange = "{532, 0}";
+			sepNavVisRange = "{0, 363}";
+			sepNavWindowFrame = "{{47, 220}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* QuizAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1794}}";
+			sepNavSelRange = "{578, 0}";
+			sepNavVisRange = "{220, 747}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Quiz */ = {
+		activeExec = 0;
+		executables = (
+			F13DE3F61449A48F00BE1D84 /* Quiz */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F13DE3F61449A48F00BE1D84 /* Quiz */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Quiz */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Quiz */,
+		);
+		codeSenseManager = F13DE4071449A4AC00BE1D84 /* Code sense */;
+		executables = (
+			F13DE3F61449A48F00BE1D84 /* Quiz */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 340577401;
+			PBXWorkspaceStateSaveDate = 340577401;
+		};
+		perUserProjectItems = {
+			F13DE4191449B5FE00BE1D84 = F13DE4191449B5FE00BE1D84 /* PlistBookmark */;
+			F13DE458144A099C00BE1D84 = F13DE458144A099C00BE1D84 /* PBXTextBookmark */;
+			F1E6AA75144CCC5500F9E179 = F1E6AA75144CCC5500F9E179 /* PBXTextBookmark */;
+			F1E6AA76144CCC5500F9E179 = F1E6AA76144CCC5500F9E179 /* PBXBookmark */;
+			F1E6AA77144CCC5500F9E179 = F1E6AA77144CCC5500F9E179 /* PBXBookmark */;
+		};
+		sourceControlManager = F13DE4061449A4AC00BE1D84 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F13DE3F61449A48F00BE1D84 /* Quiz */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Quiz;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F13DE4061449A4AC00BE1D84 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F13DE4071449A4AC00BE1D84 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F13DE4191449B5FE00BE1D84 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Quiz-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Hong/Projects/Quiz/Quiz-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	F13DE458144A099C00BE1D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QuizAppDelegate.m */;
+		name = "QuizAppDelegate.m: 55";
+		rLen = 0;
+		rLoc = 1100;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 1492;
+	};
+	F1E6AA75144CCC5500F9E179 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QuizAppDelegate.h */;
+		name = "QuizAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	F1E6AA76144CCC5500F9E179 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F1E6AA71144CC06300F9E179 /* Icon.png */;
+	};
+	F1E6AA77144CCC5500F9E179 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F1E6AA71144CC06300F9E179 /* Icon.png */;
+	};
+}
